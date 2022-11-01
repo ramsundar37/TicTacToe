@@ -1,0 +1,7 @@
+html,
+body,
+#root {
+  overflow: hidden !important;
+  background-color: rgb(98, 126, 135);
+  color: #fff;
+}
